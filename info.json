@@ -1,9 +1,43 @@
 [
-    {
-        "titulo": "ENIAC",
-        
-    },
-    {
+  {
+    "titulo": "Atanasoff Berry Computer",
+    "anio": "1938",
+    "descripcion": " Fue la primera computadora electrónica y digital automática que se usó con números y letras (aunque ahora se atribuye esto a la Z1 de Konrad Zuse finalizada en 1938)..",
+    "img": " https://th.bing.com/th/id/R.edc7c16492a6f5a2c40f23bf950f81c6?rik=aCDCgSyltkvBAg&riu=http%3a%2f%2f2.bp.blogspot.com%2f_F8kRL6vVe5c%2fS9uCjfUbO6I%2fAAAAAAAABoo%2fGLWWl8FOiYQ%2fw1200-h630-p-k-no-nu%2f1.jpg&ehk=6Cpzbc2xvyGalJru2PW8xhaG1KISp3LjdzDLrn2ed0c%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1"
+  },
 
-    }
+  {
+    "titulo": " Historia de los circuitos integrados",
+    "anio": "1950",
+    "descripcion": " La historia de los circuitos integrados comienza mediados del siglo XX, las primeras aproximaciones ocurrieron en la década de los 50. El primer intento registrado lo realizó el alemán Werner Jacobi en 1958, el cual intentó patentar sin éxito circuitos integrados con dispositivos amplificadores de semiconductores.",
+    "img": "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/5721617/image/16b8f95c64be95677731e5034604beeb"
+  },
+
+  {
+    "titulo": "La Pascalina",
+    "anio": " 1452-1519",
+    "descripcion": " Trazó las ideas para una sumadora mecánica. Siglo y medio después, el filósofo y matemático francés Balicé Pascal (1623-1662) por fin inventó y construyó la primera sumadora mecánica. Se le llamo Pascalina y funcionaba como maquinaria a base de engranes y ruedas.",
+    "img": "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/5721617/image/16b8f95c64be95677731e5034604beeb"
+  },
+
+  {
+    "titulo": "PRIMERA MAQUINA LÓGICA",
+    "anio": "1777",
+    "descripcion": " era un aparato tamaño bolsillo que resolvía silogismos tradicionales y preguntas elementales de probabilidad.",
+    "img": "https://time.graphics/uploadedFiles/500/5e/72/5e72b30201682c627ca5d9b5ab9f3bf4.jpg"
+  },
+
+  {
+    "titulo": "TARJETAS PERFORADAS",
+    "anio": "1572-1834",
+    "descripcion": "Joseph-Marie Jacquard utilizo tarjetas perforadas para controlar un telar.",
+    "img": "https://proyectoidis.org/wp-content/uploads/1801/05/IMG_1396-1024x575.jpg"
+  },
+
+  {
+    "titulo": "PRIMERA CALCULADORA MASIVA",
+    "anio": "1820",
+    "descripcion": "La primera calculadora de producción masiva se distribuyó, empezando en 1820, por Charles Thomas de Colmar.",
+    "img": "https://th.bing.com/th/id/OIP.mxwKfL3lrcezF5a9wtH4XQHaFY?pid=ImgDet&rs=1"
+  }
 ]

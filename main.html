@@ -1,105 +1,25 @@
-¡Por supuesto! Aquí tienes una versión ampliada del código con más recuadros en la tabla periódica:
 
-html
+
 <!DOCTYPE html>
 <html>
 <head>
   <title>Computación y Automatas</title>
-  <script src="main.js"></script>
-  <style>
-    /* Estilos para la tabla periódica */
-    .periodic-table {
-      display: grid;
-      grid-template-columns: repeat(18, 1fr);
-      gap: 5px;
-      margin: 20px auto;
-      max-width: 900px;
-    }
-
-    .element {
-      position: relative;
-      padding: 10px;
-      background-color: #f0f0f0;
-      cursor: pointer;
-    }
-
-    .element:hover {
-      background-color: #e0e0e0;
-    }
-
-    .element .symbol {
-      font-weight: bold;
-      font-size: 1.2rem;
-    }
-
-    .element .name {
-      font-size: 0.8rem;
-      margin-top: 5px;
-    }
-
-    /* Estilos para el cuadro de información */
-    #info-box {
-      display: none;
-      position: fixed;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      padding: 20px;
-      background-color: #fff;
-      border: 1px solid #ccc;
-      max-width: 400px;
-    }
-
-    #info-box h2 {
-      margin-top: 0;
-    }
-  </style>
+<link rel="stylesheet" href="main.css">
 </head>
-<body>
-  <div class="periodic-table">
-    <div class="element" onclick="showInfo('1', 'Computadora ENIAC', 'La ENIAC fue la primera computadora electrónica de propósito general construida en 1945.')">
-      <div class="symbol">1</div>
-      <div class="name">ENIAC</div>
-    </div>
-    <div class="element" onclick="showInfo('2', 'Apple I', 'El Apple I fue el primer producto creado por Apple Inc. y marcó el inicio de la revolución de las computadoras personales.')">
-      <div class="symbol">2</div>
-      <div class="name">Apple I</div>
-    </div>
-    <div class="element" onclick="showInfo('3', 'Altair 8800', 'El Altair 8800 fue uno de los primeros microcomputadoras disponibles comercialmente y ayudó a popularizar la computación personal.')">
-      <div class="symbol">3</div>
-      <div class="name">Altair 8800</div>
-    </div>
-    <div class="element" onclick="showInfo('4', 'IBM PC', 'El IBM PC fue el primer modelo de computadora personal de IBM, lanzado en 1981, y estableció el estándar para las PC posteriores.')">
-      <div class="symbol">4</div>
-      <div class="name">IBM PC</div>
-    </div>
-    <div class="element" onclick="showInfo('5', 'Macintosh', 'El Macintosh fue una línea de computadoras personales desarrolladas por Apple Inc. y conocidas por su interfaz gráfica revolucionaria.')">
-      <div class="symbol">5</div>
-      <div class="name">Macintosh</div>
-    </div>
 
-    <div class="element" onclick="showInfo('6', 'World Wide Web', 'El World Wide Web es un sistema de información en línea que revolucionó la forma en que se accede y se comparte información en Internet.')">
-      <div class="symbol">6</div>
-      <div class="name">World Wide Web</div>
-    </div>
-    <div class="element" onclick="showInfo('7', 'EL AME', 'Arriba el america.')">
-      <div class="symbol">7</div>
-      <div class="name">america</div>
-    </div>
+<body>
+
+  <div class="periodic-table" id="p-table">
     <!-- Agrega más elementos aquí -->
   </div>
 
-
   <div id="info-box">
+    <div id="cerrar">X</div>
     <h2 id="info-title"></h2>
+    <img id="info-img">
     <p id="info-description"></p>
   </div>
-
-
- <div class="periodic-table">
-    <div class="element" onclick="showInfo('1', 'Computadora ENIAC', 'La ENIAC fue la primera computadora electrónica de propósito general construida en 1945.')">
-      <div class="symbol"></div>
-      <div class="name"></div>
-    </div>
+ 
+  <script type="module" src="main.js"></script>
 </body>
 </html>
