@@ -5,91 +5,78 @@
     "descripcion": "Se asocia a diversas civilizaciones como a los babilonios y los chinos. El abaco fue el primer instrumento mecanico utilizado para facilitar las operaciones de calculo.",
     "img": "https://www.tecnologia-informatica.com/wp-content/uploads/2022/04/word-image-175.jpeg"
   },
-
   {
     "titulo": "LIBRO DE LAS MUTACIONES",
     "anio": "2000 a.c.",
     "descripcion": "En este libro se encuentra la primer formulación del sistema binario",
     "img": "https://m.media-amazon.com/images/I/514YB2xGIdL._SY344_BO1,204,203,200_QL70_ML2_.jpg"
   },
-
   {
     "titulo": "REGLA DE CÁLCULO",
     "anio": "1633 d.c.",
     "descripcion": "El inglés Willian oughtreed creó esta regla, utilizada para medir.",
     "img": "http://4.bp.blogspot.com/-Am3vU82IT4Y/VexwlzrDi5I/AAAAAAAACQE/J7pW2UAqXUs/s1600/5968v5_L1_C3_T02.gif"
   },
-
   {
     "titulo": "PASCALINA",
     "anio": "1642 d.c.",
     "descripcion": "Blaise Pascal creó la primera sumadora mecánica que hacía operaciones como suma y resta con 8 digítos.",
     "img": "https://ayeryhoyrevista.com/wp-content/uploads/2018/10/Pascualina.jpg"
   },
-
   {
     "titulo": "MÁQUINA MULTIPLICADORA",
     "anio": "1671 d.c.",
     "descripcion": "Gottfried Leibniz, creó la calculadora universal, que podía hacer multiplicación, resta, división y suma, y extraer raíces cuadradas, fue el primero que propuso el sistema binario para hacer cálculos..",
     "img": "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/11382400/image/83f87b90f474902df7978b8ba0326494"
   },
-
   {
     "titulo": "MÁQUINA ANALÍTICA",
     "anio": "1833 d.c.",
     "descripcion": "Charles babbage creó la primer maquiná procesadora de información ..",
     "img": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/02/Babbage-Engine-London-Science-Museum.jpg?resize=800%2C533&quality=50&strip=all&ssl=1"
   },
-
   {
     "titulo": "MÁQUINA CALCULADORA",
     "anio": "1889 d.c.",
     "descripcion": "Capaz de realizar la multiplicación directa y no mediante una sucesión de sumas, no tenía memoria.",
     "img": "https://ingenieriacomputacion1.files.wordpress.com/2013/01/calculadora-mecc3a1nica-de-schickard.jpg"
   },
-
   {
     "titulo": "PERFORADORA MECÁNICA",
     "anio": "1890 d.c.",
     "descripcion": "Representaba letras del alfabeto y digítos en tarjetas de papel, fue utilizada para clasificar, sexo, edad y origen de la población en estados unidos, fue hecha por Hermann Hollerith.",
     "img": "https://time.graphics/uploadedFiles/500/de/b6/deb64a74dd729b942b72b26990e0296b.jpg"
   },
-
   {
     "titulo": "Atanasoff Berry Computer",
     "anio": "1938",
     "descripcion": " Fue la primera computadora electrónica y digital automática que se usó con números y letras (aunque ahora se atribuye esto a la Z1 de Konrad Zuse finalizada en 1938)..",
     "img": "http://images.computerhistory.org/revonline/images/500002003p-03-01.jpg?w=600"
   },
-
   {
     "titulo": "Historia de los circuitos integrados",
     "anio": "1950",
     "descripcion": " La historia de los circuitos integrados comienza mediados del siglo XX, las primeras aproximaciones ocurrieron en la década de los 50. El primer intento registrado lo realizó el alemán Werner Jacobi en 1958, el cual intentó patentar sin éxito circuitos integrados con dispositivos amplificadores de semiconductores.",
     "img": "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/5721617/image/16b8f95c64be95677731e5034604beeb"
   },
-
   {
     "titulo": "La Pascalina",
     "anio": " 1452-1519",
     "descripcion": " Trazó las ideas para una sumadora mecánica. Siglo y medio después, el filósofo y matemático francés Balicé Pascal (1623-1662) por fin inventó y construyó la primera sumadora mecánica. Se le llamo Pascalina y funcionaba como maquinaria a base de engranes y ruedas.",
     "img": " https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/5712008/image/d9e42b1fbd67e6cec3a881c400b1eede"
   },
-
   {
     "titulo": "PRIMERA MAQUINA LÓGICA",
     "anio": "1777",
     "descripcion": " era un aparato tamaño bolsillo que resolvía silogismos tradicionales y preguntas elementales de probabilidad.",
     "img": "https://time.graphics/uploadedFiles/500/5e/72/5e72b30201682c627ca5d9b5ab9f3bf4.jpg"
   },
-
   {
     "titulo": "TARJETAS PERFORADAS",
     "anio": "1572-1834",
     "descripcion": "Joseph-Marie Jacquard utilizo tarjetas perforadas para controlar un telar.",
     "img": "https://proyectoidis.org/wp-content/uploads/1801/05/IMG_1396-1024x575.jpg"
   },
-
   {
     "titulo": "PRIMERA CALCULADORA MASIVA",
     "anio": "1820",
@@ -125,5 +112,95 @@
     "anio": "2021",
     "descripcion": "Se intensifican los pagos por Internet y medios electrónicos de todo tipo. Ya prácticamente no se necesita dinero físico.",
     "img": "https://www.unotv.com/uploads/2022/11/buen-fin-2022-condusef-explica-que-tipos-de-pagos-se-aceptan-en-internet-163727.jpg"
+  },
+  {
+    "titulo": "Grabaciones magnéticas de información",
+    "año": "1900",
+    "descripción": "Valdemar Poulsen realizó las primeras grabaciones magnéticas de información.",
+    "img": "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/2099680/image/08d594714db2acdc025c4a6e6c30be75 "
+  },
+  {
+    "titulo": "Ordenador electromagnético",
+    "año": "1943",
+    "descripción": "Nace el primer ordenador electromagnético del mundo llamado Coloccus.",
+    "img": "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/2100079/image/da73f253106db695b3613bceb413e2e4"
+  },
+  {
+    "titulo": "Transistor",
+    "año": "1948",
+    "descripción": "William Shockel inventó el transistor",
+    "img": "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/2100185/image/5a0179e16a38928eb838a5a63a1a1033"
+  },
+  {
+    "titulo": "Ordenadores personales",
+    "año": "1982",
+    "descripción": "En 1982 comienza el boom de los ordenadores personales.",
+    "img": "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/2100297/image/07ccf1f7200d36c14a237a12be920926"
+  },
+  {
+    "titulo": "La máquina de Turing",
+    "anio": "1938",
+    "descripcion": "La máquina de Turing es capaz de realizar operaciones lógicas y cálculos matemáticos utilizando símbolos en la cinta. Puede leer un símbolo de la celda actual, realizar una acción según las reglas y moverse a la izquierda o a la derecha en la cinta. Esto le permite simular el comportamiento de cualquier algoritmo y resolver problemas computacionales.",
+    "img": " https://mctp.mx/mt-content/uploads/2020/03/thumbnails/banner8-2020_l_1200x675.png "
+  },
+  {
+    "titulo": "La Máquina Analítica de Babbage ",
+    "anio": " 1830 ",
+    "descripcion": " La Máquina Analítica de Babbage estaba diseñada para ser programable, lo que la distinguía de las máquinas mecánicas anteriores que solo podían realizar tareas específicas. Aunque no se construyó en su tiempo, sus ideas y conceptos fueron revolucionarios y sentaron las bases para el desarrollo de las computadoras modernas.",
+    "img":"https://imagenes.elpais.com/resizer/H7UvV6ZgIZtpNv_qYCxSeiPEsAA=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/YZOMQS22RJHBZOXEQ47JWPP2VM.jpg "
+  },
+  {
+    "titulo": " Electronic Numerical Integrator and Computer ",
+    "anio": " 1946 ",
+    "descripcion": "La ENIAC fue una máquina enormemente grande y compleja, ocupando una sala entera. Utilizaba válvulas electrónicas para realizar cálculos y tarjetas perforadas para ingresar datos y programas. Fue utilizada principalmente para cálculos científicos y militares, como el desarrollo de trayectorias balísticas durante la Segunda Guerra Mundial.",
+    "img": " https://www.tecnologia-informatica.com/wp-content/uploads/2022/05/word-image-26.jpeg "
+  },
+  {
+    "titulo": " Antiguas civilizaciones",
+    "anio": "siglo II ",
+    "descripcion": " Las civilizaciones antiguas como la china también disponían de sus propios autómatas y mecanismos automáticos, como el construido en el siglo II por Zhang Heng, que era un detector de terremotos que señalaba la dirección del epicentro.",
+    "img": "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/10882122/image/6f68612466ed6cc8d09320195a2fb3c1.jpg"
+  },
+  {
+    "titulo": "Juguetes ",
+    "anio": " 62 ",
+    "descripcion": " En el año 62 Heron de Alejandría describe múltiples aparatos en su libro \"Autómata\". Entre ellos aves que vuelan, gorjean y beben. Todos ellos fueron diseñados como juguetes, sin mayor interés por encontrarles aplicación. Sin embargo, describe algunos como un molino de viento para accionar un órgano o un precursor de la turbina de vapor.",
+    "img": "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/10882134/image/7d624e2538c09460b18f0eab6edcde5f.jpeg"
+  },
+  {
+    "titulo": "En China ",
+    "anio": " 1500 a. C ",
+    "descripcion": "King-su Tse, en China, en el 500 a. C. inventa una urraca voladora de madera y bambú y un caballo de madera que saltaba. Entre 400 y 397 a. C., Archytar de Tarento construye un pichón de madera suspendido de un pivote, el cual rotaba con un surtidor de agua o vapor, simulando el vuelo.",
+    "img": "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/10882142/image/6c1812c91f589dd5318ef848b5721931"
+  },
+  {
+    "titulo": "Libro con bocetos",
+    "anio": "1235 ",
+    "descripcion": " Hombre de hierro de Alberto Magno (1204-1282) o la cabeza parlante de Roger Bacon (1214-1294). En el año 1235, Villard d'Honnecourt escribe un libro con bocetos que incluyen secciones de dispositivos mecánicos, como un ángel autómata, e indicaciones para la construcción de figuras humanas y animales.",
+    "img": "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/10882161/image/38dcf800e6411b3cd1a98a4bd0534618"
+  },
+  {
+    "titulo": "El Gallo de Estrasburgo  ",
+    "anio": " 1352 ",
+    "descripcion": " Otro ejemplo relevante de la época fue el Gallo de Estrasburgo que funcionó desde 1352 hasta 1789. Este es el autómata más antiguo que se conserva hasta la actualidad, formaba parte del reloj de la catedral de Estrasburgo y al dar las horas movía el pico y las alas.",
+    "img": "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/10882167/image/b54049869d2cf7834e8d35193bf175e7"
+  },
+  {
+    "titulo": "Construccion de muñecos ",
+    "anio": " 1770 ",
+    "descripcion": "El relojero Suizo Pierre Jaquet Droz (1721-1790) y sus hijos Henri-Louis y Jaquet construyeron diversos muñecos capaces de escribir (1770), dibujar (1772) y tocar diversas melodías en un órgano (1773).",
+    "img": "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/10882208/image/86d28869ba6fa1ef11ec6ca595796638"
+  },
+  {
+    "titulo": " Robot Humanoide ",
+    "anio": " 1996 ",
+    "descripcion": " En 1996 la empresa japonesa Honda, tras décadas dejó atónitos a todos al presentar un adelantado robot humanoide llamado P3 y, en el año 2000, volvió a lograr un hito único con ASIMO, este camina y corre, reconoce gestos humanos y los interpreta, diferencia la voz entre otros sonidos, puede transmitir mensajes personales, servir de guía.",
+    "img": "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/10882235/image/c4996dba37337adaa433e03918bd7c66"
+  },
+  {
+    "titulo": "Actuales Automatas ",
+    "anio": "2017",
+    "descripcion": "Los actuales sistemas de automatización industrial pueden considerarse como los herederos de los autómatas mecánicos del pasado. La definición del autómata que aparece en la real academia índica que un autómata es una máquina que imita la figura y los movimientos de un ser animado.",
+    "img": "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/10882248/image/fd8068eec8daea44470f5b3046b1e891"
   }
 ]

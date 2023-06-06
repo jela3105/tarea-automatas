@@ -17,7 +17,7 @@ body {
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
-  margin: 20px;
+  margin: 50px;
 }
 
 img {
@@ -30,7 +30,7 @@ img {
   color: white;
   background-color: red;
   max-width: 15px;
-  margin-left: 90%;
+  margin-left: 95%;
 }
 
 .element {
@@ -42,11 +42,11 @@ img {
   position: relative;
   padding: 20px;
   cursor: pointer;
-  margin: 1px;
-  width: 70px;
-  height: 70px;
+  margin: 2px;
+  width: 140px;
+  height: 140px;
   text-align: center;
-  font-size: 1.0rem;
+  font-size: 1.5rem;
 }
 
 .element:hover {
