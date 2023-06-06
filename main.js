@@ -10,7 +10,8 @@ for (let e of info) {
 
   element.addEventListener("click", () => {
     document.getElementById("info-title").textContent = e.titulo;
-    document.getElementById("info-description").textContent = e.descripcion;
+    document.getElementById("info-description").textContent =
+      e.descripcion.toLowerCase();
     document.getElementById("info-box").style.display = "block";
     document.getElementById("info-img").src = e.img;
   });
