@@ -17,7 +17,7 @@ for (let e of info) {
 
   element.textContent =e.titulo.charAt(0).toUpperCase() + e.titulo.slice(1).toLowerCase(); 
 
-  element.addEventListener("click", () => {
+  general.addEventListener("click", () => {
     document.getElementById("info-title").textContent = e.titulo.charAt(0).toUpperCase() + e.titulo.slice(1).toLowerCase();
     document.getElementById("info-description").textContent =
       e.descripcion;
