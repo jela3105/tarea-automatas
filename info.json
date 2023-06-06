@@ -1,5 +1,61 @@
 [
   {
+    "titulo": "El Ábaco",
+    "anio": "2500 a.c.",
+    "descripcion": "Se asocia a diversas civilizaciones como a los babilonios y los chinos. El abaco fue el primer instrumento mecanico utilizado para facilitar las operaciones de calculo.",
+    "imag": "https://aprendiendomatematicas.com/wp-content/uploads/2012/01/origen-de-abaco.jpg"
+  },
+
+  {
+    "titulo": "LIBRO DE LAS MUTACIONES",
+    "anio": "2000 a.c.",
+    "descripcion": "En este libro se encuentra la primer formulación del sistema binario",
+    "imag": "https://www.elsotano.com/imagenes_grandes/9788435/978843501902.JPG"
+  },
+
+  {
+    "titulo": "REGLA DE CÁLCULO",
+    "anio": "1633 d.c.",
+    "descripcion": "El inglés Willian oughtreed creó esta regla, utilizada para medir.",
+    "img": "http://4.bp.blogspot.com/-Am3vU82IT4Y/VexwlzrDi5I/AAAAAAAACQE/J7pW2UAqXUs/s1600/5968v5_L1_C3_T02.gif"
+  },
+
+  {
+    "titulo": "PASCALINA",
+    "anio": "1642 d.c.",
+    "descripcion": "Blaise Pascal creó la primera sumadora mecánica que hacía operaciones como suma y resta con 8 digítos.",
+    "img": "https://ayeryhoyrevista.com/wp-content/uploads/2018/10/Pascualina.jpg"
+  },
+
+  {
+    "titulo": "MÁQUINA MULTIPLICADORA",
+    "anio": "1671 d.c.",
+    "descripcion": "Gottfried Leibniz, creó la calculadora universal, que podía hacer multiplicación, resta, división y suma, y extraer raíces cuadradas, fue el primero que propuso el sistema binario para hacer cálculos..",
+    "img": "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/11382400/image/83f87b90f474902df7978b8ba0326494"
+  },
+
+  {
+    "titulo": "MÁQUINA ANALÍTICA",
+    "anio": "1833 d.c.",
+    "descripcion": "Charles babbage creó la primer maquiná procesadora de información ..",
+    "img": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/02/Babbage-Engine-London-Science-Museum.jpg?resize=800%2C533&quality=50&strip=all&ssl=1"
+  },
+
+  {
+    "titulo": "MÁQUINA CALCULADORA",
+    "anio": "1889 d.c.",
+    "descripcion": "Capaz de realizar la multiplicación directa y no mediante una sucesión de sumas, no tenía memoria.",
+    "img": "https://ingenieriacomputacion1.files.wordpress.com/2013/01/calculadora-mecc3a1nica-de-schickard.jpg"
+  },
+
+  {
+    "titulo": "PERFORADORA MECÁNICA",
+    "anio": "1890 d.c.",
+    "descripcion": "Representaba letras del alfabeto y digítos en tarjetas de papel, fue utilizada para clasificar, sexo, edad y origen de la población en estados unidos, fue hecha por Hermann Hollerith.",
+    "img": "https://time.graphics/uploadedFiles/500/de/b6/deb64a74dd729b942b72b26990e0296b.jpg"
+  },
+
+  {
     "titulo": "Atanasoff Berry Computer",
     "anio": "1938",
     "descripcion": " Fue la primera computadora electrónica y digital automática que se usó con números y letras (aunque ahora se atribuye esto a la Z1 de Konrad Zuse finalizada en 1938)..",
@@ -7,7 +63,7 @@
   },
 
   {
-    "titulo": " Historia de los circuitos integrados",
+    "titulo": "Historia de los circuitos integrados",
     "anio": "1950",
     "descripcion": " La historia de los circuitos integrados comienza mediados del siglo XX, las primeras aproximaciones ocurrieron en la década de los 50. El primer intento registrado lo realizó el alemán Werner Jacobi en 1958, el cual intentó patentar sin éxito circuitos integrados con dispositivos amplificadores de semiconductores.",
     "img": "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/5721617/image/16b8f95c64be95677731e5034604beeb"
@@ -17,7 +73,7 @@
     "titulo": "La Pascalina",
     "anio": " 1452-1519",
     "descripcion": " Trazó las ideas para una sumadora mecánica. Siglo y medio después, el filósofo y matemático francés Balicé Pascal (1623-1662) por fin inventó y construyó la primera sumadora mecánica. Se le llamo Pascalina y funcionaba como maquinaria a base de engranes y ruedas.",
-    "img": "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/5721617/image/16b8f95c64be95677731e5034604beeb"
+    "img": " https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/5712008/image/d9e42b1fbd67e6cec3a881c400b1eede"
   },
 
   {
