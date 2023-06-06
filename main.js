@@ -5,13 +5,13 @@ document.getElementById("info-img").style.height = "300px";
 for (let e of info) {
   let table = document.getElementById("p-table");
   let element = document.createElement("div");
-  element.textContent = e.titulo;
+  element.textContent = e.titulo.charAt(0).toUpperCase() + e.titulo.slice(1).toLowerCase();
   element.className = "element";
 
   element.addEventListener("click", () => {
-    document.getElementById("info-title").textContent = e.titulo;
+    document.getElementById("info-title").textContent = e.titulo.charAt(0).toUpperCase() + e.titulo.slice(1).toLowerCase();
     document.getElementById("info-description").textContent =
-      e.descripcion.toLowerCase();
+      e.descripcion;
     document.getElementById("info-box").style.display = "block";
     document.getElementById("info-img").src = e.img;
   });
