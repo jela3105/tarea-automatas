@@ -1,100 +1,129 @@
 [
-{
-  "titulo": "El Ábaco",
-  "anio": "2500 a.c.",
-  "descripcion": "Se asocia a diversas civilizaciones como a los babilonios y los chinos. El abaco fue el primer instrumento mecanico utilizado para facilitar las operaciones de calculo.",
-  "img": "https://www.tecnologia-informatica.com/wp-content/uploads/2022/04/word-image-175.jpeg"
-},
+  {
+    "titulo": "El Ábaco",
+    "anio": "2500 a.c.",
+    "descripcion": "Se asocia a diversas civilizaciones como a los babilonios y los chinos. El abaco fue el primer instrumento mecanico utilizado para facilitar las operaciones de calculo.",
+    "img": "https://www.tecnologia-informatica.com/wp-content/uploads/2022/04/word-image-175.jpeg"
+  },
 
-{
-  "titulo": "LIBRO DE LAS MUTACIONES",
-  "anio": "2000 a.c.",
-  "descripcion": "En este libro se encuentra la primer formulación del sistema binario",
-  "img": "https://m.media-amazon.com/images/I/514YB2xGIdL._SY344_BO1,204,203,200_QL70_ML2_.jpg"
-},
+  {
+    "titulo": "LIBRO DE LAS MUTACIONES",
+    "anio": "2000 a.c.",
+    "descripcion": "En este libro se encuentra la primer formulación del sistema binario",
+    "img": "https://m.media-amazon.com/images/I/514YB2xGIdL._SY344_BO1,204,203,200_QL70_ML2_.jpg"
+  },
 
-{
-  "titulo": "REGLA DE CÁLCULO",
-  "anio": "1633 d.c.",
-  "descripcion": "El inglés Willian oughtreed creó esta regla, utilizada para medir.",
-  "img": "http://4.bp.blogspot.com/-Am3vU82IT4Y/VexwlzrDi5I/AAAAAAAACQE/J7pW2UAqXUs/s1600/5968v5_L1_C3_T02.gif"
-},
+  {
+    "titulo": "REGLA DE CÁLCULO",
+    "anio": "1633 d.c.",
+    "descripcion": "El inglés Willian oughtreed creó esta regla, utilizada para medir.",
+    "img": "http://4.bp.blogspot.com/-Am3vU82IT4Y/VexwlzrDi5I/AAAAAAAACQE/J7pW2UAqXUs/s1600/5968v5_L1_C3_T02.gif"
+  },
 
-{
-  "titulo": "PASCALINA",
-  "anio": "1642 d.c.",
-  "descripcion": "Blaise Pascal creó la primera sumadora mecánica que hacía operaciones como suma y resta con 8 digítos.",
-  "img": "https://ayeryhoyrevista.com/wp-content/uploads/2018/10/Pascualina.jpg"
-},
+  {
+    "titulo": "PASCALINA",
+    "anio": "1642 d.c.",
+    "descripcion": "Blaise Pascal creó la primera sumadora mecánica que hacía operaciones como suma y resta con 8 digítos.",
+    "img": "https://ayeryhoyrevista.com/wp-content/uploads/2018/10/Pascualina.jpg"
+  },
 
-{
-  "titulo": "MÁQUINA MULTIPLICADORA",
-  "anio": "1671 d.c.",
-  "descripcion": "Gottfried Leibniz, creó la calculadora universal, que podía hacer multiplicación, resta, división y suma, y extraer raíces cuadradas, fue el primero que propuso el sistema binario para hacer cálculos..",
-  "img": "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/11382400/image/83f87b90f474902df7978b8ba0326494"
-},
+  {
+    "titulo": "MÁQUINA MULTIPLICADORA",
+    "anio": "1671 d.c.",
+    "descripcion": "Gottfried Leibniz, creó la calculadora universal, que podía hacer multiplicación, resta, división y suma, y extraer raíces cuadradas, fue el primero que propuso el sistema binario para hacer cálculos..",
+    "img": "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/11382400/image/83f87b90f474902df7978b8ba0326494"
+  },
 
-{
-  "titulo": "MÁQUINA ANALÍTICA",
-  "anio": "1833 d.c.",
-  "descripcion": "Charles babbage creó la primer maquiná procesadora de información ..",
-  "img": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/02/Babbage-Engine-London-Science-Museum.jpg?resize=800%2C533&quality=50&strip=all&ssl=1"
-},
+  {
+    "titulo": "MÁQUINA ANALÍTICA",
+    "anio": "1833 d.c.",
+    "descripcion": "Charles babbage creó la primer maquiná procesadora de información ..",
+    "img": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/02/Babbage-Engine-London-Science-Museum.jpg?resize=800%2C533&quality=50&strip=all&ssl=1"
+  },
 
-{
-  "titulo": "MÁQUINA CALCULADORA",
-  "anio": "1889 d.c.",
-  "descripcion": "Capaz de realizar la multiplicación directa y no mediante una sucesión de sumas, no tenía memoria.",
-  "img": "https://ingenieriacomputacion1.files.wordpress.com/2013/01/calculadora-mecc3a1nica-de-schickard.jpg"
-},
+  {
+    "titulo": "MÁQUINA CALCULADORA",
+    "anio": "1889 d.c.",
+    "descripcion": "Capaz de realizar la multiplicación directa y no mediante una sucesión de sumas, no tenía memoria.",
+    "img": "https://ingenieriacomputacion1.files.wordpress.com/2013/01/calculadora-mecc3a1nica-de-schickard.jpg"
+  },
 
-{
-  "titulo": "PERFORADORA MECÁNICA",
-  "anio": "1890 d.c.",
-  "descripcion": "Representaba letras del alfabeto y digítos en tarjetas de papel, fue utilizada para clasificar, sexo, edad y origen de la población en estados unidos, fue hecha por Hermann Hollerith.",
-  "img": "https://time.graphics/uploadedFiles/500/de/b6/deb64a74dd729b942b72b26990e0296b.jpg"
-},
+  {
+    "titulo": "PERFORADORA MECÁNICA",
+    "anio": "1890 d.c.",
+    "descripcion": "Representaba letras del alfabeto y digítos en tarjetas de papel, fue utilizada para clasificar, sexo, edad y origen de la población en estados unidos, fue hecha por Hermann Hollerith.",
+    "img": "https://time.graphics/uploadedFiles/500/de/b6/deb64a74dd729b942b72b26990e0296b.jpg"
+  },
 
-{
-  "titulo": "Atanasoff Berry Computer",
-  "anio": "1938",
-  "descripcion": " Fue la primera computadora electrónica y digital automática que se usó con números y letras (aunque ahora se atribuye esto a la Z1 de Konrad Zuse finalizada en 1938)..",
-  "img": "http://images.computerhistory.org/revonline/images/500002003p-03-01.jpg?w=600"
-},
+  {
+    "titulo": "Atanasoff Berry Computer",
+    "anio": "1938",
+    "descripcion": " Fue la primera computadora electrónica y digital automática que se usó con números y letras (aunque ahora se atribuye esto a la Z1 de Konrad Zuse finalizada en 1938)..",
+    "img": "http://images.computerhistory.org/revonline/images/500002003p-03-01.jpg?w=600"
+  },
 
-{
-  "titulo": "Historia de los circuitos integrados",
-  "anio": "1950",
-  "descripcion": " La historia de los circuitos integrados comienza mediados del siglo XX, las primeras aproximaciones ocurrieron en la década de los 50. El primer intento registrado lo realizó el alemán Werner Jacobi en 1958, el cual intentó patentar sin éxito circuitos integrados con dispositivos amplificadores de semiconductores.",
-  "img": "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/5721617/image/16b8f95c64be95677731e5034604beeb"
-},
+  {
+    "titulo": "Historia de los circuitos integrados",
+    "anio": "1950",
+    "descripcion": " La historia de los circuitos integrados comienza mediados del siglo XX, las primeras aproximaciones ocurrieron en la década de los 50. El primer intento registrado lo realizó el alemán Werner Jacobi en 1958, el cual intentó patentar sin éxito circuitos integrados con dispositivos amplificadores de semiconductores.",
+    "img": "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/5721617/image/16b8f95c64be95677731e5034604beeb"
+  },
 
-{
-  "titulo": "La Pascalina",
-  "anio": " 1452-1519",
-  "descripcion": " Trazó las ideas para una sumadora mecánica. Siglo y medio después, el filósofo y matemático francés Balicé Pascal (1623-1662) por fin inventó y construyó la primera sumadora mecánica. Se le llamo Pascalina y funcionaba como maquinaria a base de engranes y ruedas.",
-  "img": " https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/5712008/image/d9e42b1fbd67e6cec3a881c400b1eede"
-},
+  {
+    "titulo": "La Pascalina",
+    "anio": " 1452-1519",
+    "descripcion": " Trazó las ideas para una sumadora mecánica. Siglo y medio después, el filósofo y matemático francés Balicé Pascal (1623-1662) por fin inventó y construyó la primera sumadora mecánica. Se le llamo Pascalina y funcionaba como maquinaria a base de engranes y ruedas.",
+    "img": " https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/5712008/image/d9e42b1fbd67e6cec3a881c400b1eede"
+  },
 
-{
-  "titulo": "PRIMERA MAQUINA LÓGICA",
-  "anio": "1777",
-  "descripcion": " era un aparato tamaño bolsillo que resolvía silogismos tradicionales y preguntas elementales de probabilidad.",
-  "img": "https://time.graphics/uploadedFiles/500/5e/72/5e72b30201682c627ca5d9b5ab9f3bf4.jpg"
-},
+  {
+    "titulo": "PRIMERA MAQUINA LÓGICA",
+    "anio": "1777",
+    "descripcion": " era un aparato tamaño bolsillo que resolvía silogismos tradicionales y preguntas elementales de probabilidad.",
+    "img": "https://time.graphics/uploadedFiles/500/5e/72/5e72b30201682c627ca5d9b5ab9f3bf4.jpg"
+  },
 
-{
-  "titulo": "TARJETAS PERFORADAS",
-  "anio": "1572-1834",
-  "descripcion": "Joseph-Marie Jacquard utilizo tarjetas perforadas para controlar un telar.",
-  "img": "https://proyectoidis.org/wp-content/uploads/1801/05/IMG_1396-1024x575.jpg"
-},
+  {
+    "titulo": "TARJETAS PERFORADAS",
+    "anio": "1572-1834",
+    "descripcion": "Joseph-Marie Jacquard utilizo tarjetas perforadas para controlar un telar.",
+    "img": "https://proyectoidis.org/wp-content/uploads/1801/05/IMG_1396-1024x575.jpg"
+  },
 
-{
-  "titulo": "PRIMERA CALCULADORA MASIVA",
-  "anio": "1820",
-  "descripcion": "La primera calculadora de producción masiva se distribuyó, empezando en 1820, por Charles Thomas de Colmar.",
-  "img": "https://th.bing.com/th/id/OIP.mxwKfL3lrcezF5a9wtH4XQHaFY?pid=ImgDet&rs=1"
-}
-
+  {
+    "titulo": "PRIMERA CALCULADORA MASIVA",
+    "anio": "1820",
+    "descripcion": "La primera calculadora de producción masiva se distribuyó, empezando en 1820, por Charles Thomas de Colmar.",
+    "img": "https://th.bing.com/th/id/OIP.mxwKfL3lrcezF5a9wtH4XQHaFY?pid=ImgDet&rs=1"
+  },
+  {
+    "titulo": "Informática Molecular",
+    "anio": "2017",
+    "descripcion": "La Agencia de Proyectos de Investigación Avanzada de Defensa (DARPA), se encuentra desarrollando un programa que utiliza moléculas como computadoras.",
+    "img": "https://www.neoteo.com/wp-content/uploads/2013/07/BC07-758x569.jpg"
+  },
+  {
+    "titulo": "Vulneravilidades de seguridad",
+    "anio": "2018",
+    "descripcion": "Meltdown y Spectre los cuales afectan entre los dos a la mayoría de los procesadores en el mercado.",
+    "img": "https://www.softzone.es/app/uploads-softzone.es/2021/05/Fallos-Meltdown-Spectre-CPU.jpg"
+  },
+  {
+    "titulo": "Computadora cuántica 53 cúbits",
+    "anio": "2019",
+    "descripcion": "BM presenta al mercado la primera computadora cuántica comercial, la IBM Q System One.",
+    "img": "https://www.tecnologia-informatica.com/wp-content/uploads/2018/09/word-image-103.jpeg"
+  },
+  {
+    "titulo": "Volumen cuántico 64",
+    "anio": "2020",
+    "descripcion": "Honeywell anuncia a los medios especializados el lanzamiento de una nueva computadora cuántica capaz de alcanzar un volumen cuántico de 64.",
+    "img": "https://elchapuzasinformatico.com/wp-content/uploads/2020/06/Ordenador-cuantico-Honeywell-1.jpg"
+  },
+  {
+    "titulo": "Pagos por Internet",
+    "anio": "2021",
+    "descripcion": "Se intensifican los pagos por Internet y medios electrónicos de todo tipo. Ya prácticamente no se necesita dinero físico.",
+    "img": "https://www.unotv.com/uploads/2022/11/buen-fin-2022-condusef-explica-que-tipos-de-pagos-se-aceptan-en-internet-163727.jpg"
+  }
 ]
