@@ -2,6 +2,16 @@ body {
   background-color: #152238;
 }
 
+.central-title{
+  color: white;
+  text-align: center;
+}
+
+.integrantes{
+  color: white;
+  margin: 20px;
+}
+
 /* Estilos para la tabla periódica */
 .periodic-table {
   display: flex;
@@ -32,11 +42,11 @@ img {
   position: relative;
   padding: 20px;
   cursor: pointer;
-  margin: 5px;
-  width: 45px;
-  height: 45px;
+  margin: 1px;
+  width: 70px;
+  height: 70px;
   text-align: center;
-  font-size: 0.7rem;
+  font-size: 1.0rem;
 }
 
 .element:hover {
@@ -58,8 +68,8 @@ img {
   transform: translate(-50%, -50%);
   padding: 20px;
   border: 1px solid #ccc;
-  max-width: 400px;
-  max-height: 400px;
+  max-width: 70%;
+  max-height: 70%;
   overflow-y: auto;
   color: #ffff;
 }
